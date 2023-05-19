@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f38546b7-1de5-443d-80d4-9a5337c93863" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IDEAtest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/BreakSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/Calc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/CalcTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/CheckFloat$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/CheckFloat$FloatState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/CheckFloat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/CheckFloat1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/ClassSample$Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/DiffSampleInherit$ImageDrawer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/DiffSampleInherit$LineDrawer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/DiffSampleInherit$RectDrawer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/DiffSampleInherit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/DiffSampleInherit2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/DiffSampleInherit2$ImageDrawer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/DiffSampleInherit2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/Dummy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/ExMax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/ForEachListSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/ForSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/ForSample2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/InheritSample$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/InheritSample$Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/InheritSample$Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/InheritSample$User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/InheritSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/InstanceMethodSample$Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/InstanceMethodSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/InterFaceSample$Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/InterFaceSample$Figure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/InterFaceSample$Figures.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/InterFaceSample$Named.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/InterFaceSample$Oval.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/InterFaceSample$Passenger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/InterFaceSample$Staff.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/InterFaceSample$Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/InterFaceSample$Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/InterFaceSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/KakezanTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/LoopStepSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/MethodRefSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/MethodSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/ParamSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/ReadFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/RemoveDuplicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/RunLength1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/RunLength2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/RunLengthCompression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/SimpleClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/SimpleServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/StreamSample1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/StreamSample2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/StreamSample3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/TraverseDeep.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/TraverseDeep2$1Position.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/TraverseDeep2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/TreeSample$Branch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/TreeSample$Leaf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/TreeSample$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/TreeSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/WebClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/WebClient2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/WebServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/main/java/projava/WriteFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/projava/Maze$1Position.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/projava/Maze.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/projava/Maze2$1Position.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/IDEAtest/projava/Maze2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/BreakSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/CalcTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/CheckFloat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/CheckFloat1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/Circles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/ClassSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/DiffSampleInherit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/DiffSampleInherit2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/ExMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/ForEachArraySample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/ForEachListSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/ForSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/ForSample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/InheritSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/InstanceMethodSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/InterFaceSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/KakezanTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/LoopStepSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/Maze2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/MethodRefSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/MethodSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/ParamSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/RemoveDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/RunLength1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/RunLength2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/RunLengthCompression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/SimpleClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/SimpleServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/StreamSample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/StreamSample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/StreamSample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/TraverseDeep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/TraverseDeep2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/TreeSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/WebClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/WebClient2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/WebServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/WriteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/projava/return365.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NUhGUWXeo5oBlmxpWzfxm04CjK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;newbranch&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/projava" />
+    </key>
+  </component>
+  <component name="RunManager" selected="アプリケーション.return365">
+    <configuration name="MethodSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.projava.MethodSample" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.projava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="projava.SampleForm" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="projava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="projava.projava.SwitchSample" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="projava.projava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="projavaIfsample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="projava.projavaIfsample" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="projava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="return365" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.projava.return365" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.projava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="アプリケーション.return365" />
+        <item itemvalue="アプリケーション.MethodSample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f38546b7-1de5-443d-80d4-9a5337c93863" name="Changes" comment="" />
+      <created>1679724472859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679724472859</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/newbranch" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
